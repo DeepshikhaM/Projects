@@ -36,7 +36,7 @@ The project includes exploratory data analysis (EDA) using Matplotlib & Seaborn,
 - Boxplots to identify outliers
 - Histograms for class distributions
 
- ** Key Takeaways: **
+  Key Takeaways: 
 - The Random Forest Classifier outperformed other models with highest accuracy & recall.
 - Feature standardization significantly improved the SVM and MLP model performances.
 - The dataset showed high class imbalance, which required handling with weighted loss functions.
